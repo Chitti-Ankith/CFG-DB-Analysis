@@ -149,4 +149,12 @@ WHERE f1.id < f2.id;
 
 ---
 
+# **CGC Binaries**
 
+The **CGC (Cyber Grand Challenge) binaries** binaries have been extracted from this [repo](https://github.com/zardus/cgc-bins/tree/master) for easier experimentation and analysis.
+
+## **Other Resources**
+
+- **CGC Challenge Source Code**: [GitHub Repository](https://github.com/CyberGrandChallenge/samples/)
+- **In-depth CGC Dataset Analysis** by Lungetech: [Lungetech Analysis](http://www.lungetech.com/cgc-corpus/)
+- **Lungetech CGC Challenge Corpus Repository**: [GitHub Repository](https://github.com/lungetech/cgc-challenge-corpus/)
